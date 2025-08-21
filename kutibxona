@@ -1,0 +1,9 @@
+pip install facenet-pytorch==2.5.2 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install numpy==1.24.4 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install playsound==1.2.2 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install torch==1.13.1 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install torchvision==0.14.1 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install opencv-python==4.8.1.78 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install pyvirtualcam==0.10.2 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install pythonnet==3.0.3 --trusted-host pypi.org --trusted-host files.pythonhosted.org
+ pip install vidgear==0.3.0 --trusted-host pypi.org --trusted-host files.pythonhosted.org
